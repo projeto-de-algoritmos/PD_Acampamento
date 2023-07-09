@@ -14,13 +14,15 @@ Este projeto aplica o algoritmo de Knapsack de forma dinâmica para calcular qua
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
-
+![imagem1](image.png)
+![imagem2](image-1.png)
+![imagem3](image-2.png)
 ## Instalação 
 **Linguagem**: Python<br>
+É recomendado usar o VS code para executar esse programa, mas outras IDEs com extensão para python também devem ser capaz de executar esse código.
 
 ## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
+Basta executar o código direto pela sua IDE de preferência, diga o tamanho da mochila, quantos itens e qual a importância de cada item, e o código irá dizer qual a melhor combinação de itens que maximize o uso de espaço e com a maior importância combinada possível.
 
 
 
